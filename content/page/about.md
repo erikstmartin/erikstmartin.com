@@ -8,7 +8,7 @@ I've been a Web Developer, Software Engineer, Systems Architect for the past 15+
 
 Interesting facts about me:
 
-- I co-authored a [Go in Action](https://www.amazon.com/Go-Action-William-Kennedy/dp/1617291781/), a book about the Go programming language that has been translated to 3 additional languages.
+- I co-authored [Go in Action](https://www.amazon.com/Go-Action-William-Kennedy/dp/1617291781/), a book about the Go programming language that has been translated to 3 additional languages.
 - I co-organize [GopherCon](https://gophercon.com/), a multi-track conference for the Go programming language that attracts 1,500+ developers every year.
 - I co-host [Go Time](https://gotime.fm), a podcast on the Go programming language.
 - I have contributed to many OSS projects, including Ruby on Rails, the Go programming language, Docker, Kubernetes, and wrote the initial SkyDNS which is used by Kubernetes for DNS based service discovery.
