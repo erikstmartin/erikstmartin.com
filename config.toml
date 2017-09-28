@@ -1,4 +1,4 @@
-baseURL = "http://www.erikstmartin.com/"
+baseURL = "https://erikstmartin.com/"
 languageCode = "en-us"
 title = "Erik St. Martin"
 theme = "beautifulhugo"
