@@ -2,7 +2,6 @@
 title: "Why I Joined Microsoft"
 subtitle: "Be the change that you wish to see in the world."
 date: 2017-09-28T12:25:04-04:00
-draft: true
 ---
 
 With all the [hype](http://redmonk.com/jgovernor/2017/07/20/azure-on-a-hot-streak-of-hiring-hoovering-up-developer-advocates/) about Microsoft's [hiring streak](http://redmonk.com/jgovernor/2017/09/06/on-hiring-jessie-frazelle-microsofts-developer-advocacy-hot-streak-continues/) on the developer advocacy team, it has left a lot of people asking: "[What is Microsoft doing?](http://redmonk.com/sogrady/2017/09/28/microsoft-hiring/)". Many of my new coworkers have [shared](https://johnpapa.net/developer-advocacy-at-microsoft/) their [views](https://hackernoon.com/the-best-career-advice-ive-received-so-far-is-never-turn-down-an-interview-7586ca5b7ef8); I thought I'd share my own. Even some of my own friends and family have asked why I would make this move. I'd been working on a great team, working on really interesting and [challenging problems](https://www.youtube.com/watch?v=7g4da6-JXfE&t=244s). All seemed to be well in the world; what would trigger such a move?
