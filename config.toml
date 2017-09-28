@@ -1,0 +1,57 @@
+baseURL = "http://www.erikstmartin.com/"
+languageCode = "en-us"
+title = "Erik St. Martin"
+theme = "beautifulhugo"
+
+metaDataFormat = "yaml"
+pygmentsUseClasses = true
+pygmentCodeFences = true
+#disqusShortname = "XXX"
+#googleAnalytics = "XXX"
+
+[Params]
+  subtitle = "Linux, Kubernetes, Containers and infosec"
+  logo = "img/erik-avatar.jpg"
+  favicon = "img/gopher-favicon.ico"
+  dateFormat = "January 2, 2006"
+  commit = false
+  rss = true
+  comments = true
+
+  [Author]
+  name = "Erik St. Martin"
+  website = "erikstmartin.com"
+  email = "alakriti@gmail.com"
+  facebook = "erikstmartin"
+  googleplus = "+ErikStMartin"
+  github = "erikstmartin"
+  twitter = "erikstmartin"
+  reddit = "alakriti"
+  linkedin = "erikstmartin"
+  youtube = "channel/UCtf7AVdur0hEEBvAJoz7Q2w"
+
+[[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "Speaking"
+    url = "page/speaking"
+    weight = 2
+
+[[menu.main]]
+    name = "Podcasts"
+    url = "page/podcasts"
+    weight = 3
+
+
+[[menu.main]]
+    name = "About"
+    url = "page/about/"
+    weight = 4
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 5
