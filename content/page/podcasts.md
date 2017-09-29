@@ -2,6 +2,7 @@
 title: Podcasts
 subtitle: 
 comments: false
+url: podcasts
 ---
 
 ### Regular appearances

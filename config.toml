@@ -36,18 +36,18 @@ disqusShortname = "erikstmartin"
 
 [[menu.main]]
     name = "Speaking"
-    url = "page/speaking"
+    url = "speaking"
     weight = 2
 
 [[menu.main]]
     name = "Podcasts"
-    url = "page/podcasts"
+    url = "podcasts"
     weight = 3
 
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "about/"
     weight = 4
 
 [[menu.main]]

@@ -2,6 +2,7 @@
 title: "About me"
 subtitle: "Sr. Cloud Developer Advocate @ Microsoft"
 comments: false
+url: about
 ---
 
 I've been a Web Developer, Software Engineer, Systems Architect for the past 15+ years. I have a deep passion for all things technology, these days I'm currently in love with all things Go, Kubernetes, Containers, Distributed Systems and Information Security. I occasionally like to imagine I know something about hardware and embedded systems.
