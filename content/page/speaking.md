@@ -7,8 +7,8 @@ url: speaking
 
 ### Upcoming
 - February 5-7, 2018: [Config Management Camp, Ghent, Belgium](http://cfgmgmtcamp.eu/)  - Building Distributed Systems with Kubernetes
-- March 5-6, 2018: Microsoft Tech Summit, Washington DC - Opening the lid on Containers
-- March 28-29, 2018: Microsoft Tech Summit, Amsterdam - Opening the lid on Containers
+- March 5-6, 2018: [Microsoft Tech Summit, Washington DC](https://www.microsoft.com/en-us/techsummit/washington-dc) - Opening the lid on Containers
+- March 28-29, 2018: [Microsoft Tech Summit, Amsterdam](https://www.microsoft.com/nl-nl/techsummit/amsterdam) - Opening the lid on Containers
 - April 25, 2018: [GOTO Chicago 2018 - Building Distributed Systems with Kubernetes](https://gotochgo.com/2018/sessions/347)
 
 ### Past
