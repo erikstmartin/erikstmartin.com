@@ -6,9 +6,25 @@ url: speaking
 ---
 
 ### Upcoming
-- June 11-12, 2018: [Velocity San Jose 2018](https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/66932) Brian Ketelsen and I are holding a two-day Kubernetes workshop.
+
 
 ### Past
+- April 10-11, 2019: [Microsoft Ignite | The Tour Mexico City - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
+- April 10-11, 2019: [Microsoft Ignite | The Tour Mexico City - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
+- March 20-21, 2019: [Microsoft Ignite | The Tour Amsterdam - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
+- March 20-21, 2019: [Microsoft Ignite | The Tour Amsterdam - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
+- February 26-27, 2019: [Microsoft Ignite | The Tour London - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
+- February 26-27, 2019: [Microsoft Ignite | The Tour London - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
+- February 4-5, 2019: [Microsoft Ignite | The Tour Washington D.C. - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
+- February 4-5, 2019: [Microsoft Ignite | The Tour Washington D.C. - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
+- January 31-February 1, 2019: [Microsoft Ignite | The Tour Milan - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
+- January 31-February 1, 2019: [Microsoft Ignite | The Tour Milan - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/
+- January 10-11, 2019: [Microsoft Ignite | The Tour Toronto - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
+- January 10-11, 2019: [Microsoft Ignite | The Tour Toronto - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
+- December 11-12, 2018: [Microsoft Ignite | The Tour Sao Paulo - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
+- December 11-12, 2018: [Microsoft Ignite | The Tour Sao Paulo - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
+- June 11-12, 2018: [Velocity San Jose 2018](https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/66932) Brian Ketelsen and I are holding a two-day Kubernetes workshop.
+- June 11-12, 2018: [Velocity San Jose 2018](https://conferences.oreilly.com/velocity/vl-ca/public/schedule/detail/66932) Brian Ketelsen and I are holding a two-day Kubernetes workshop.
 - April 25, 2018: [GOTO Chicago 2018 - Building Distributed Systems with Kubernetes](https://gotochgo.com/2018/sessions/347)
 - March 28-29, 2018: [Microsoft Tech Summit, Amsterdam](https://www.microsoft.com/nl-nl/techsummit/amsterdam) - Opening the lid on Containers
 - March 5-6, 2018: [Microsoft Tech Summit, Washington DC](https://www.microsoft.com/en-us/techsummit/washington-dc) - Opening the lid on Containers
