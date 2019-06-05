@@ -1,6 +1,6 @@
 ---
 title: "About me"
-subtitle: "Sr. Cloud Developer Advocate @ Microsoft"
+subtitle: "Principal Cloud Developer Advocate @ Microsoft"
 comments: false
 url: about
 ---
@@ -24,7 +24,7 @@ I spent a lot of my early career as a Web Developer at Disney working on their e
 
 The past couple years I've been at Comcast working on Kubernetes, Docker and distributed systems designing and building their linear video streaming platform that provides cable video for millions across the country. It really resonated with my love for high-scale distributed systems and unique challenging problems.
 
-Today, I work as a Sr. Cloud Developer Advocate for Microsoft Azure, where I focus on linux, containers, kubernetes, distributed system with a particular focus on high-scale, high-availability, multi-region deployments. This role gives me the opportunity to be actively involved in the OSS community and contribute to OSS projects.
+Today, I work as a Principal Cloud Developer Advocate for Microsoft Azure, where I focus on linux, containers, kubernetes, distributed system with a particular focus on high-scale, high-availability, multi-region deployments. This role gives me the opportunity to be actively involved in the OSS community and contribute to OSS projects.
 
 Outside of engineering roles, I've been very passionate about helping educate and build communities around the Go programming language, Kubernetes and Docker. I've contributed to all of these projects, co-authored a book on Go, co-host a podcast about Go and co-organize GopherCon, an annual conference for the Go programming language that attracts 1,500 developers each year.
 
