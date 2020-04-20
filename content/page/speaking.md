@@ -3,6 +3,7 @@ title: Speaking
 subtitle: 
 comments: false
 url: speaking
+date: 2017-09-28T12:25:04-04:00
 ---
 
 ### Upcoming
