@@ -7,7 +7,7 @@ tags: ["Minecraft","Programming"]
 
 This week i'm going to kick off a new video series aimed at introducing children, teenagers, and potentially adults to the world of programming. Rather than producing episodes, I'll be live streaming the sessions so that viewers can interact and ask questions. The sessions will evolve organically based on questions that are asked. Once we get through the introductory material, the series will evolve into the creation of an addon, and potentially evolve into mods for other games and game development using Unity or the Unreal engine.
 
-Episodes will be streamed live Friday's at 1pm EST beginning 4/24/2020.
+Episodes will be streamed live Friday's at 2pm EST beginning 4/24/2020.
 
 The live stream and archive of past sessions will be available here: https://erik.dev/minecraft.
 
