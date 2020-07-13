@@ -21,6 +21,8 @@ date: 2017-09-28T12:25:04-04:00
 ### Upcoming
 
 ### Past
+- June 30, 2020: [live@Manning Kubernetes Conference - Krustlet: Web Assembly in Kubernetes](https://www.youtube.com/watch?v=DWCrP41SjbM&feature=youtu.be&t=4091)
+- May 20, 2020: Microsoft Build - Krustlet: Web Assembly in Kubernetes
 - April 10-11, 2019: [Microsoft Ignite | The Tour Mexico City - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
 - April 10-11, 2019: [Microsoft Ignite | The Tour Mexico City - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
 - March 20-21, 2019: [Microsoft Ignite | The Tour Amsterdam - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
@@ -30,7 +32,7 @@ date: 2017-09-28T12:25:04-04:00
 - February 4-5, 2019: [Microsoft Ignite | The Tour Washington D.C. - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
 - February 4-5, 2019: [Microsoft Ignite | The Tour Washington D.C. - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
 - January 31-February 1, 2019: [Microsoft Ignite | The Tour Milan - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
-- January 31-February 1, 2019: [Microsoft Ignite | The Tour Milan - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/
+- January 31-February 1, 2019: [Microsoft Ignite | The Tour Milan - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
 - January 10-11, 2019: [Microsoft Ignite | The Tour Toronto - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
 - January 10-11, 2019: [Microsoft Ignite | The Tour Toronto - Modernizing your application with containers and Serverless](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Modernizing-your-application-with-containers-and-Serverless/m-p/284152/)
 - December 11-12, 2018: [Microsoft Ignite | The Tour Sao Paulo - Consolidating infrastructure with Azure Kubernetes Service](https://techcommunity.microsoft.com/t5/Microsoft-Ignite-The-Tour/Consolidating-infrastructure-with-Azure-Kubernetes-Service/m-p/284154)
