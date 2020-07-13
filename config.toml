@@ -16,7 +16,7 @@ disqusShortname = "erikstmartin"
   commit = false
   rss = true
   comments = true
-  mainSections = ["post","posts"]
+  mainSections = ["post","posts", "live-streams"]
 
   [Author]
   name = "Erik St. Martin"
@@ -35,8 +35,8 @@ disqusShortname = "erikstmartin"
     weight = 1
 
 [[menu.main]]
-    name = "Minecraft"
-    url = "minecraft"
+    name = "Live Streams"
+    url = "live-streams"
     weight = 2
 
 [[menu.main]]
@@ -45,17 +45,11 @@ disqusShortname = "erikstmartin"
     weight = 3
 
 [[menu.main]]
-    name = "Podcasts"
-    url = "podcasts"
-    weight = 4
-
-
-[[menu.main]]
     name = "About"
     url = "about"
-    weight = 5
+    weight = 4
 
 [[menu.main]]
     name = "Tags"
     url = "tags"
-    weight = 6
+    weight = 5
