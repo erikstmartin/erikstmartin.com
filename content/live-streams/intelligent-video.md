@@ -2,7 +2,6 @@
 title: "Series: Intelligent Video Analytics with NVIDIA Jetson"
 subtitle: 
 comments: false
-url: intelligent-video
 date: 2020-07-10T19:00:00-04:00
 tags: ["NVIDIA", "Jetson", "Azure", "MachineLearning", "LiveStream"]
 ---
